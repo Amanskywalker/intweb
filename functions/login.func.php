@@ -41,7 +41,7 @@ function login($message='')
                 } 
                 else 
                 {
-                  echo "All fields are necessary";
+                  echo "<br/>All fields are necessary";
                 }
               }
               
